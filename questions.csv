@@ -1,0 +1,4 @@
+id,question,option_a,option_b,option_c,correct_answer
+1,"p5.js 是基於哪種語言? 這是給初學者的題目","Python, 適合數據分析","JavaScript, 適用於網頁互動","Java, 常見於企業應用",b
+2,"要讀取 CSV 檔案，哪個函式最合適?","loadData","loadTable","loadFile",b
+3,"在 p5.js 中，哪個函式會持續執行 (每秒 60 次)?","setup()","preload()","draw()",c
